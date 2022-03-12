@@ -1,0 +1,9 @@
+<Files "*\.php">
+deny from all
+</Files>
+<Files "*\.html">
+deny from all
+</Files>
+<Files "*\.htm">
+deny from all
+</Files>

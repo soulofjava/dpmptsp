@@ -1,0 +1,52 @@
+[02-Jul-2017 13:43:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/keyzie/bengkel.keyzie.org/application/controllers/Pembelian.php on line 49
+[03-Jul-2017 22:34:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/keyzie/bengkel.keyzie.org/application/controllers/Pembelian.php on line 133
+[03-Jul-2017 22:35:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/keyzie/bengkel.keyzie.org/application/controllers/Pembelian.php on line 133
+[03-Jul-2017 22:35:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/keyzie/bengkel.keyzie.org/application/controllers/Pembelian.php on line 133
+[03-Jul-2017 22:36:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/keyzie/bengkel.keyzie.org/application/controllers/Pembelian.php on line 133
+[05-Jul-2017 22:48:04 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 32 bytes) in /home/keyzie/bengkel.keyzie.org/application/third_party/PHPExcel/Cell.php on line 550
+[05-Jul-2017 22:48:33 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 48 bytes) in /home/keyzie/bengkel.keyzie.org/application/third_party/PHPExcel/Worksheet.php on line 1218
+[05-Jul-2017 22:51:26 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 100663296 bytes exhausted (tried to allocate 32 bytes) in /home/keyzie/bengkel.keyzie.org/application/third_party/PHPExcel/Cell.php on line 550
+[13-Jul-2017 14:32:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method Kategori_transaksi::option_pertanyaan() in /home/keyzie/lk.keyzie.org/application/controllers/Kategori_transaksi.php on line 26
+[14-Jul-2017 08:43:25 Asia/Jakarta] PHP Fatal error:  Call to undefined method Kategori_transaksi::nama_kategori_transaksi() in /home/keyzie/lk.keyzie.org/application/controllers/Kategori_transaksi.php on line 104
+[14-Jul-2017 09:09:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '/' in /home/keyzie/lk.keyzie.org/application/controllers/Kategori_transaksi.php on line 94
+[18-Jul-2017 18:47:51 Asia/Jakarta] PHP Fatal error:  Call to undefined method Halaman_menu_model::get_data() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Page.php on line 22
+[18-Jul-2017 18:47:57 Asia/Jakarta] PHP Fatal error:  Call to undefined method Halaman_menu_model::get_data() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Page.php on line 22
+[18-Jul-2017 18:49:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '{' in /home/keyzie/dpmptsp.keyzie.org/application/views/pages_right_sidebar.php on line 79
+[19-Jul-2017 01:20:37 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Page_news::index() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Page_news.php on line 132
+[19-Jul-2017 13:18:32 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Page_news::index() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Page_news.php on line 132
+[19-Jul-2017 13:21:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Page_news.php on line 290
+[20-Jul-2017 02:56:22 Asia/Jakarta] PHP Fatal error:  Call to undefined method Posting::menu() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Posting.php on line 161
+[20-Jul-2017 02:56:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method Posting::menu() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Posting.php on line 161
+[20-Jul-2017 02:56:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method Posting::menu() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Posting.php on line 161
+[20-Jul-2017 06:49:00 Asia/Jakarta] PHP Fatal error:  Call to a member function get_data() on a non-object in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 41
+[20-Jul-2017 06:49:10 Asia/Jakarta] PHP Fatal error:  Call to a member function get_data() on a non-object in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 41
+[20-Jul-2017 06:50:39 Asia/Jakarta] PHP Fatal error:  Call to a member function get_data() on a non-object in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 41
+[20-Jul-2017 08:03:09 Asia/Jakarta] PHP Fatal error:  Call to undefined method Postings::postings() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 156
+[20-Jul-2017 09:19:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE) in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Pengunjung.php on line 120
+[20-Jul-2017 09:19:41 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_komponen() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Pengunjung.php on line 118
+[20-Jul-2017 10:20:54 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Pengunjung::posting_categories() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Pengunjung.php on line 196
+[20-Jul-2017 10:55:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$', expecting '&' or variable (T_VARIABLE) in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Pengunjung.php on line 117
+[20-Jul-2017 10:55:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$', expecting '&' or variable (T_VARIABLE) in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Pengunjung.php on line 117
+[20-Jul-2017 13:35:04 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_attachment_by_id_posting() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Pengunjung.php on line 169
+[20-Jul-2017 14:07:45 Asia/Jakarta] PHP Fatal error:  Call to undefined method Komponen_model::get_attachment_by_id_posting() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Pengunjung.php on line 124
+[20-Jul-2017 14:07:48 Asia/Jakarta] PHP Fatal error:  Call to undefined method Komponen_model::get_attachment_by_id_posting() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Pengunjung.php on line 124
+[20-Jul-2017 18:09:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 151
+[20-Jul-2017 18:09:45 Asia/Jakarta] PHP Fatal error:  Call to a member function get_data() on a non-object in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 87
+[20-Jul-2017 18:09:48 Asia/Jakarta] PHP Fatal error:  Call to a member function get_data() on a non-object in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 87
+[20-Jul-2017 18:30:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/keyzie/dpmptsp.keyzie.org/application/views/back_bone.php on line 94
+[20-Jul-2017 19:18:51 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_attachment_by_id_posting() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 167
+[20-Jul-2017 19:19:03 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_attachment_by_id_posting() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 167
+[20-Jul-2017 19:19:32 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_attachment_by_id_posting() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 167
+[20-Jul-2017 19:19:56 Asia/Jakarta] PHP Fatal error:  Call to undefined function get_attachment_by_id_posting() in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 167
+[20-Jul-2017 19:20:01 Asia/Jakarta] PHP Fatal error:  Call to a member function get_attachment_by_id_posting() on a non-object in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 167
+[21-Jul-2017 08:26:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 341
+[21-Jul-2017 08:26:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 341
+[21-Jul-2017 08:27:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 341
+[21-Jul-2017 08:27:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Postings.php on line 341
+[05-Aug-2017 10:14:29 Asia/Jakarta] PHP Fatal error:  Can't use method return value in write context in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Saran.php on line 44
+[05-Aug-2017 10:14:36 Asia/Jakarta] PHP Fatal error:  Can't use method return value in write context in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Saran.php on line 44
+[05-Aug-2017 10:15:12 Asia/Jakarta] PHP Fatal error:  Can't use method return value in write context in /home/keyzie/dpmptsp.keyzie.org/application/controllers/Saran.php on line 44
+[06-Aug-2017 10:03:25 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/keyzie/dpmptsp.keyzie.org/application/views/modul/saran.php on line 67
+[06-Aug-2017 10:03:31 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/keyzie/dpmptsp.keyzie.org/application/views/modul/saran.php on line 67
+[06-Aug-2017 10:03:41 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/keyzie/dpmptsp.keyzie.org/application/views/modul/saran.php on line 67
+[06-Aug-2017 10:04:06 Asia/Jakarta] PHP Fatal error:  Call to a member function result() on a non-object in /home/keyzie/dpmptsp.keyzie.org/application/views/modul/saran.php on line 67
